@@ -1,0 +1,30 @@
+Checkout via :
+----------------
+
+1. Paypal,
+2. Google Checkout,
+
+Support Currency :
+-------------------
+
+1.  AustralianDollar="AUD",AUD="AUD",
+2.  CanadianDollar="CAD",CAD="CAD",
+3.  CzechKoruna="CZK",CZK="CZK",
+4.  DanishKrone="DKK",DKK="DKK",
+5.  Euro="EUR",EUR="EUR",
+6.  HongKongDollar="HKD",HKD="HKD",
+7.  HungarianForint="HUF",HUF="HUF",
+8.  IsraeliNewSheqel="ILS",ILS="ILS",
+9.  JapaneseYen="JPY",JPY="JPY",
+10. MexicanPeso="MXN",MXN="MXN",
+11. NorwegianKrone="NOK",NOK="NOK",
+12. NewZealandDollar="NZD",NZD="NZD",
+13. PolishZloty="PLN",PLN="PLN",
+14. PoundSterling="GBP",GBP="GBP",
+15. SingaporeDollar="SGD",SGD="SGD",
+16. SwedishKrona="SEK",SEK="SEK",
+17. SwissFranc="CHF",CHF="CHF",
+18. ThaiBaht="THB",THB="THB",
+19. USDollar="USD",USD="USD",
+20. IndonesianRupiah="IDR",IDR="IDR" (fake)
+

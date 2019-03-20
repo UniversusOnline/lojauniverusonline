@@ -1,0 +1,7 @@
+<div class="item_image">
+<img border="0" class="item_thumb" src="product_image.jpg" />
+<span class="item_price">00.00 €</span>
+</div>
+<div class="item_Description">
+Descrição…
+</div>
